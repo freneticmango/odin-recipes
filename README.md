@@ -8,4 +8,4 @@ In this repo I will practice the following:
 *Git commit etiquette \
 *Basic text manipulation using headers, paragraphs, and tags for emphasis of text \
 *Use and placement of images \
-*Creating and organizing links from one page to another \
+*Creating and organizing links from one page to another 
