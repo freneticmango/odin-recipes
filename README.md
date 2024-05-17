@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin Recipes Assignment
 
 This repo is a simple recipe website meant for practicing basic HTML web design.
 
